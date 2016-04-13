@@ -50,9 +50,6 @@
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
-      <value />
-    </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -63,9 +60,6 @@
         <option name="FOREGROUND" value="bfebbf" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
-      <value />
     </option>
     <option name="BAD_CHARACTER">
       <value>
@@ -246,12 +240,6 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
-    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
-      <value />
-    </option>
-    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
-      <value />
-    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f2493b" />
@@ -302,9 +290,6 @@
       <value>
         <option name="FOREGROUND" value="3ba1fe" />
       </value>
-    </option>
-    <option name="Class">
-      <value />
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -761,9 +746,6 @@
       <value>
         <option name="FOREGROUND" value="c4b3a3" />
       </value>
-    </option>
-    <option name="METHOD_CALL_ATTRIBUTES">
-      <value />
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
