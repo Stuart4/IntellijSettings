@@ -53,4 +53,7 @@
       <npm-package value="/usr/lib/node_modules/npm" />
     </local-interpreter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/bin/node" version="5.10.1" last-modified="1460171334000" />
+  </component>
 </application>
