@@ -56,4 +56,7 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/bin/node" version="5.10.1" last-modified="1460171334000" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
 </application>
